@@ -14,10 +14,15 @@
 - $> bin/kafka-server-start.sh config/server.properties
 - $> bin/kafka-topics.sh --create --topic twitter-events --bootstrap-server localhost:9092
 ----
- # installation and run ing 
--------
-import the source code into eclipse IDE
+# installation and runing 
+- import the source code into eclipse IDE & maven install and run 
+
 ## sample input and output
 - already available in the PowerPoint
+
+## github and video links 
+- https://github.com/birhanegg/cs523
+- https://web.microsoftstream.com/video/d15ace5f-4bf6-45c9-885a-b8701ca9c8ea
+
 ## Limitation
  - spark run in local mode 
